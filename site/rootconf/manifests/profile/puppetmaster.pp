@@ -1,5 +1,5 @@
 # == Class: rootconf::profile::puppetmaster
 #
-class sarath::profile::puppetmaster {
+class rootconf::profile::puppetmaster {
   # resources
 }

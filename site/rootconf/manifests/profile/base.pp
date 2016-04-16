@@ -1,5 +1,5 @@
 # == Class: rootconf::profile::base
 #
-class sarath::profile::base {
+class rootconf::profile::base {
   # resources
 }
